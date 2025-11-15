@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\TodoApi",
+    "\\api\\TodoApi\\Controllers",
+    "\\api\\TodoApi\\Data",
+    "\\api\\TodoApi\\Dtos",
+    "\\api\\TodoApi\\Models",
+    "\\mcp-server",
+    "\\mcp-server\\src",
+    "\\mcp-server\\src\\tools"
+  ],
+  "SelectedNode": "\\api\\README.md",
+  "PreviewInSolutionExplorer": false
+}
